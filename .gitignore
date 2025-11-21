@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.xlsx
+*.twb
+*.twbx
+*.tds
+*.tdsx
+*.hyper
+data/processed/
+data/raw/
